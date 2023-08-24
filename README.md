@@ -1,14 +1,15 @@
+<img src="https://media.giphy.com/media/IDc4NAgYuLi0fj6jgy/giphy.gif" width="50" height="50" align = "left">
 <h1 align="left"><b>Hi my name is Ian Fleming </b>
-  <img src="https://media.giphy.com/media/IDc4NAgYuLi0fj6jgy/giphy.gif" width="50" height="50" align = "right"> </h1>
-<!--  -->
+</h1>
+
 
 
 <br>
 
-
-
 	
-## <picture><img src = "https://media.giphy.com/media/J2sGM6A2GXq3jfN4RT/giphy.gif" width = 50px></picture> **About Me**
+<img src = "https://media.giphy.com/media/J2sGM6A2GXq3jfN4RT/giphy.gif" width = 50px align = "left"></picture> 
+<h2>About Me
+</h2>
 
 
 
@@ -20,10 +21,13 @@ My data journey has led me to explore a variety of tools and technologies. I hav
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="50" align= "left">
+<h2>
+<b> Skills</b>
+<br></h2>
 
 <p align="center">
 
@@ -42,7 +46,6 @@ My data journey has led me to explore a variety of tools and technologies. I hav
     ![SQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
     ![PS/SQL](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-<br>
 
 - **Analytics**:
 
@@ -61,10 +64,11 @@ My data journey has led me to explore a variety of tools and technologies. I hav
 <br>
 <br>
 
------
 
 
-## <b> Feel Free to Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80" align = "left"></img>
+<h2> Let's Connect!
+</h2>
 <br>
 <div align='left'>
 
@@ -76,12 +80,6 @@ My data journey has led me to explore a variety of tools and technologies. I hav
 </a>
 </li>
 
-<br>
-
-
-
-<br>
-
 <li>
 <a href="mailto:ipfleming12@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  ipfleming12@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
@@ -91,18 +89,4 @@ My data journey has led me to explore a variety of tools and technologies. I hav
 </ul>
 </div>
 
-<br>
 
-<br>
-<br>
-<br>
-
-
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
